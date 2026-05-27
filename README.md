@@ -54,7 +54,7 @@ Implemented dynamic slicers and filters for:
 * Employee Category
 * Salary Type
 
-<b> Visualization Strategy
+<b> Visualization Strategy</b>
 
 Used KPI cards, line charts, donut charts, stacked bars, and employee-level tables to deliver clear and actionable workforce insights.
 
