@@ -44,7 +44,6 @@ Designed a multi-page interactive dashboard with:
 * Workforce Overview
 * Department & Pay Analysis
 * Employee Insights
-* Interactivity
 
 Implemented dynamic slicers and filters for:
 
